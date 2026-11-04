@@ -1,0 +1,50 @@
+﻿RAW,,,,,,,,,,,,,,,,,,,
+Composition,,,,,Effect,Diversity,,,,,,,,,,,,,
+YES pH,82,,pH only,,,+,-,null,,,,,,,,,,,
+,,82,pH+F,,pH,,,,,,,,,,,,,,
+No effect pH,5,,,,pH+F,1,27,,,,,,,,,,,,
+YES DIC,19,1,YES DIC,,,,,,,,,,,,,,,,
+,,18,Yes DIC+F,,Effect,Diversity,,,,,,,,,,,,,
+No effect DIC,2,,,,,+,-,null,,,,,,,,,,,
+pH+DIC,12,,pH+DIC,,DIC,,,,,,,,,,,,,,
+,,12,pH+DIC+F,,DIC+F,1,3,,,,,,,,,,,,
+No effect DIC or pH,16,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+pH,,,,,DIC,,,,,,,,,,,,,,
+Abundance,Cyano,,,,Abundance,Cyano,,,,,,,,,,,,,
+,+,-,null,,,+,-,null,,,,,,,,,,,
+pH,,,,,DIC,,,1,,,,,,,,,,,
+pH (Fcyano),,,,,DIC (Fcyano),,,,,,,,,,,,,,
+pH+F,4,15,,,DIC+F,5,8,1,,,,,,,,,,,
+pH+ F (Fcyano),1,8,,,DIC+ F (Fcyano),2,1,,,,,,,,,,,,
+pH+F (Pcyano),,3,,,DIC +F (Pcyano),,,,,,Composition,,,,Diversity,,,,
+,,,,,,,,,,,Yes,pH,82,,+,pH,1,,
+Abundance,Green algae,,,,Abundance,Green algae,,,,,,DIC,19,,,DIC,1,,
+,+,-,null,,,+,-,null,,,,pH+DIC,12,,-,pH,27,,
+pH,,,,,DIC,,,1,,,No,pH,5,,,DIC,3,,
+pH (Fgreens),,,,,DIC (Fgreens),,,,,,,DIC,2,,,,,,
+pH+F,6,4,1,,DIC+F,10,2,,,,,pH+DIC,16,,,,,,
+pH+F (Fgreens),21,,,,DIC+F (Fgreens),1,,,,,,,136,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Abundance,Diatoms,,,,Abundance,Diatoms,,,,,pH,,,,,DIC,,,
+,+,-,null,,,+,-,null,,,Abundance,Cyano,,,,Abundance,Cyano,,
+pH,,,,,DIC,,,,,,,+,-,null,,,+,-,null
+pH+F,1,14,,,DIC+F,3,1,,,,Cyano,4,15,0,,Cyano,5,8,2
+,,,,,,,,,,,Fcyano,1,8,0,,Fcyano,2,1,0
+Abundance,Dinoflagellates,,,,Abundance,Dinoflagellates,,,,,Pcyano,,3,0,,Pcyano,0,0,0
+,+,-,null,,,+,-,null,,,,,,,,,,,
+pH,,,,,DIC,,,,,,pH,,,,,DIC,,,
+pH+F,13,,,,DIC+F,1,,,,,Abundance,Greens,,,,Abundance,Greens,,
+,,,,,,,,,,,,+,-,null,,,+,-,null
+,,,,,,,,,,,Greens,6,4,1,,Greens,10,2,1
+,,,,,,,,,,,Fgreens,21,0,0,,Fgreens,1,0,0
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,pH,,,,,DIC,,,
+,,,,,,,,,,,Abundance,Diatoms,,,,Abundance,Diatoms,,
+,,,,,,,,,,,,+,-,null,,,+,-,null
+,,,,,,,,,,,Diatoms,1,14,0,,Diatoms,3,1,0
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,pH,,,,,DIC,,,
+,,,,,,,,,,,Abundance,Dinoflagellates,,,,Abundance,Dinoflagellates,,
+,,,,,,,,,,,,+,-,null,,,+,-,null
+,,,,,,,,,,,Dinos,13,0,0,,Dinos,1,0,0
