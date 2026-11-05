@@ -15,7 +15,7 @@ Totals,1,14,7,4,7,1,0,6,1,3,3,1,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Genetic responses ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Taxa/Response,Antioxidant genes,,,CCM genes,,,Glycolsis (FA synthesis),,,Bicarb transporter genes,,,gvp genes,,,CA activity,,,,,,,,,,,,,,
+Taxa/Response,Antioxidant genes,,,CCM genes,,,Glycolysis (FA synthesis),,,Bicarb transporter genes,,,gvp genes,,,CA activity,,,,,,,,,,,,,,
 ,+,-,null,+,-,null,+,-,null,+,-,null,+,-,null,+,-,null,,,,,,,,,,,,
 Cyanobacteria,1 (SOD),,,,1,,,,,,1,,,1,,,2,,,,,,,,,,,,,
 Diatoms,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
@@ -26,7 +26,7 @@ Totals,2,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,5,0,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Taxa/Response,Growth,,,Biomass,,,Photosynthesis,,,Toxins,,,Antioxidant genes,,,CCM genes,,,Glycolsis (FA synthesis),,,Bicarb transporter genes,,,gvp genes,,,CA activity,,
+Taxa/Response,Growth,,,Biomass,,,Photosynthesis,,,Toxins,,,Antioxidant genes,,,CCM genes,,,Glycolysis (FA synthesis),,,Bicarb transporter genes,,,gvp genes,,,CA activity,,
 ,+,-,null,+,-,null,+,-,null,+,-,null,+,-,null,+,-,null,+,-,null,+,-,null,+,-,null,+,-,null
 Cyanobacteria,0,8,1,1,1,0,0,2,0,3,3,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,2,0
 Diatoms,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
