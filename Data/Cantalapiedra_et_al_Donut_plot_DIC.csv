@@ -15,7 +15,7 @@ Totals,30,3,6,11,1,5,19,2,6,5,2,3,1,5,1,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Genetic responses ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Taxa/Response,Antioxidant genes,,,CCM genes,,,Sulphate assimiliation genes,,,Bicarb transporter genes,,,Calvin cycle (Rubisco),,,CA activity,,,,,,,,,,,,,,,,,
+Taxa/Response,Antioxidant genes,,,CCM genes,,,Sulphate assimilation genes,,,Bicarb transporter genes,,,Calvin cycle (Rubisco),,,CA activity,,,,,,,,,,,,,,,,,
 ,+,-,null,+,-,null,+,-,null,+,-,null,+,-,null,+,-,null,,,,,,,,,,,,,,,
 Cyanobacteria,1,,,,5,2,1,,,1,2,1,,1,1,,2,1,,,,,,,,,,,,,,,
 Diatoms,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -29,7 +29,7 @@ Totals,1,0,0,0,10,2,1,0,0,1,4,1,0,1,1,0,6,1,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Taxa/Response,Growth,,,Biomass,,,Photosynthesis,,,Toxins,,,Elemental stoichiometry,,,Antioxidant genes,,,CCM genes,,,Sulphate assimiliation genes,,,Bicarb transporter genes,,,Calvin cycle (Rubisco),,,CA activity,,
+Taxa/Response,Growth,,,Biomass,,,Photosynthesis,,,Toxins,,,Elemental stoichiometry,,,Antioxidant genes,,,CCM genes,,,Sulphate assimilation genes,,,Bicarb transporter genes,,,Calvin cycle (Rubisco),,,CA activity,,
 ,+,-,null,+,-,null,+,-,null,+,-,null,+,-,null,+,-,null,+,-,null,+,-,null,+,-,null,+,-,null,+,-,null
 Cyanobacteria,15,3,2,6,1,1,8,2,3,5,2,3,1,0,1,1,0,0,0,5,2,1,0,0,1,2,1,0,1,1,0,2,1
 Diatoms,3,0,0,2,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
