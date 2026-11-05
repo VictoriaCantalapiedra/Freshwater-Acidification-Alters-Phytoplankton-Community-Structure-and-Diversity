@@ -13,7 +13,7 @@
 #   The count data are embedded in this script, so it needs no input files.
 #   Counts are observations per taxon and response, 
 #   derived from the studies listed in
-#   Data/Cantalapiedra_et_al_included_studies.csv, and match
+#   Data/Cantalapiedra_et_al_full_text_screening.csv, and match
 #   Data/Cantalapiedra_et_al_Donut_plot_DIC.csv (which also lists sulphate assimilation genes and Calvin cycle (Rubisco) responses, not plotted here)
 #
 # Output (written to the working directory):
