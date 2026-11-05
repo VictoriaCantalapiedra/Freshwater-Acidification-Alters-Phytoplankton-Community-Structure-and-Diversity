@@ -17,15 +17,14 @@
 #
 # ============================================================
 
-# Install required packages (run once if needed)
-#install.packages(c(
-# "tidyverse",
-# "sf",
-# "rnaturalearth",
-# "rnaturalearthdata",
-# "cowplot",
-# "lwgeom"
-# ))
+# Install required packages (run once)
+install.packages(c(
+  "tidyverse",
+  "sf",
+  "rnaturalearth",
+  "cowplot",
+  "lwgeom"
+))
 
 # =========================
 # LIBRARIES
@@ -72,6 +71,12 @@ survey_data <- tibble(
 # =========================
 world <- ne_countries(scale = "medium", returnclass = "sf") %>%
   filter(!name %in% c("Antarctica","Greenland"))
+
+# Check that every country in survey_data matches a name in the map data
+unmatched <- setdiff(survey_data$country, world$name)
+if (length(unmatched) > 0) {
+  stop("Not matched in map data: ", paste(unmatched, collapse = ", "))
+}
 
 # =========================
 # JOIN
@@ -208,6 +213,7 @@ map_plot <- ggplot() +
   
   scale_size_continuous(
     range = c(3, 12),
+    limits = c(1, 24),
     breaks = c(1,3,5,10,20),
     name = "Number of surveys"
   ) +
@@ -265,7 +271,7 @@ europe_inset <- ggplot() +
   ) +
   
   scale_fill_manual(values = continent_cols) +
-  scale_size(range = c(2, 8)) +
+  scale_size_continuous(range = c(3, 12), limits = c(1, 24)) +
   
   coord_sf(
     xlim = c(-15, 40),
