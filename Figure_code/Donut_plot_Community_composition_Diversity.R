@@ -15,7 +15,7 @@
 #   Counts are observations per driver and response, 
 #   derived from the studies listed in
 #   Data/Cantalapiedra_et_al_full_text_screening.csv, and match
-#   Data/Cantalapiedra_et_al_Community_composition.csv (which also includes data for abundance counts for separate plots found in Figure_code/Donut_plot_abundances.R)  
+#   Data/Cantalapiedra_et_al_Community_composition.csv (which also includes data for abundance counts for separate plots found in Figure_code/Donut_plot_Abundances.R)  
 #
 # Output (written to the working directory):
 #   community_composition_donut.pdf
