@@ -22,7 +22,7 @@ The Scopus search export is **not** included in this repository because of datab
 | `Data/Cantalapiedra_et_al_Donut_plot_DIC.csv` | Counts of positive (+), negative (-) and null responses to DIC addition, by taxon and response variable |
 | `Data/Cantalapiedra_et_al_Donut_plot_pH.csv` | As above, for pH |
 | `Data/Cantalapiedra_et_al_Community_composition.csv` | Counts used for the community composition/diversity and abundance plots |
-| `Figure_code/` | R scripts used to produce the manuscript figures |
+| `Figure_code/` | R scripts used to produce the manuscript figures (see `Figure_code/README.md`)|
 
 ## Licensing
 
