@@ -35,3 +35,4 @@ Bibliographic details of published papers (authors, year, journal, title) are in
 
 ## Citation
 Cantalapiedra Mateo et al. (2026), submitted.
+Data and code archived at Zenodo: https://doi.org/10.5281/zenodo.23988465
