@@ -21,7 +21,7 @@ The Scopus search export is **not** included in this repository because of datab
 | `Data/Cantalapiedra_et_al_full_text_screening.csv` | Studies that reached full-text reading, with the inclusion decision, study type, algal phyla and species. The "Included in the analysis" column records the final decision (Yes/No) and "Classification" groups only the included studies (Yes) into their appropriate categories (Growth & Physiology / Community composition).|
 | `Data/Cantalapiedra_et_al_Donut_plot_CO2.csv` | Counts of positive (+), negative (-) and null responses to CO2 addition, by taxon and response variable |
 | `Data/Cantalapiedra_et_al_Donut_plot_pH.csv` | As above, for pH |
-| `Data/Cantalapiedra_et_al_Donut_plot_community_composition.csv` |Counts used for the community composition/diversity plot |
+| `Data/Cantalapiedra_et_al_Community_composition.csv` |Counts used for the community composition/diversity and abundance plots |
 | `Figure_code/` | R scripts used to produce the manuscript figures |
 
 ## Licensing
