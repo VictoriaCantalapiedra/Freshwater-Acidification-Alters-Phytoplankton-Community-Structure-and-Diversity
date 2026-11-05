@@ -1,5 +1,7 @@
 # ============================================================
 # Figure: Global distribution of field studies
+# Cantalapiedra Mateo et al. (2026, submitted)
+# Author:Victoria Cantalapiedra Mateo      Licence: MIT (see Figure_code/LICENSE_MIT)
 #
 # Description:
 # Generates a world map showing the geographical distribution
@@ -8,21 +10,22 @@
 # Data:
 # Survey data are embedded directly in this script.
 # Geographical boundaries are retrieved using rnaturalearth.
+# Points show the number of surveys per country and are not exact study locations
 #
 # Output:
 # All_studies_map_with_inset.png
-# All_studies_map_with_inset.pdf
 #
 # ============================================================
 
-# Install required packages (run once)
-install.packages(c(
-  "tidyverse",
-  "sf",
-  "rnaturalearth",
-  "cowplot",
-  "lwgeom"
-))
+# Install required packages (run once if needed)
+#install.packages(c(
+# "tidyverse",
+# "sf",
+# "rnaturalearth",
+# "rnaturalearthdata",
+# "cowplot",
+# "lwgeom"
+# ))
 
 # =========================
 # LIBRARIES
